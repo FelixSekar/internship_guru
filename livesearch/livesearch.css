@@ -1,0 +1,46 @@
+#search-wrapper{
+	display: inline-block;
+	padding-left: 4%;
+	padding-right: 4%;
+	margin: 0px;
+}
+#search{
+	width: 100%;
+	border:1px solid grey;
+	overflow:hidden;
+	padding: 0px;
+}
+#search input{
+	border: 0;
+}
+
+#search-btn{
+	border: 0;
+}
+
+.live-item{
+	
+	padding: 5px;
+	color: blue;
+	background-color: white;	
+}
+.live-item:hover{
+	background-color: lightblue;
+	cursor:pointer;
+}
+#search-wrapper form{
+	margin:0px;
+	padding: 0px;
+}
+#livesearch{
+	border: 1px solid grey;
+	padding: 0px;
+	display: none;
+	position: absolute;
+	width: 100%;
+	z-index: 1;
+}
+
+.live-select{
+	background-color:lightblue; 
+}

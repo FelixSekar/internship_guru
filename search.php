@@ -45,8 +45,8 @@
 
   	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-		<link rel="stylesheet" href="livesearch/livesearch.css">  	
-  	<script src="livesearch/livesearch.js"></script>
+		<link rel="stylesheet" href="livesearch.css">  	
+  	<script src="livesearch.js"></script>
 
   	<script>
   		$(document).ready(function(){

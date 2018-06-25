@@ -23,7 +23,7 @@ $(document).ready(function(){
 			var q = $(this).val();
 			if(q){
 				$.ajax({
-        url: 'livesearch.php',
+        url: 'livesearch/livesearch.php',
         type: 'post',
         data: {query:q},
         dataType: 'json',
